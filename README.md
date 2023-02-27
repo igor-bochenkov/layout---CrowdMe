@@ -1,2 +1,2 @@
-# CrowdMe
-Landing page
+## CrowdMe
+Simple landing [page](https://igor-bochenkov.github.io/layout---CrowdMe/)
