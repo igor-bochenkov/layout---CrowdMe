@@ -1,2 +1,2 @@
-# layout---CrowdMe
+# CrowdMe
 Landing page
